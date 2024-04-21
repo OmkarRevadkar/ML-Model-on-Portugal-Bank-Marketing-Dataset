@@ -1,1 +1,4 @@
-# Model-on-Portugal-Bank-Marketing-Dataset
+This project deals with the Portugal Bank Marketing Dataset. 
+Firstly, I have done the primary analysis (EDA) to reveal several categorical features related to the dataset.
+After that, I have extensively conducted the data cleaning in which the order of the ordinal data is maintained so that the machine generates productive meaningful insights and then I have tried building the models on Logistic Regression, Naive Bayes, KNN algorithms to predict which customers are likely to convert into a successful lead for a certain financial product offering by the bank. 
+I have also incorporated the use of GridSearchCV to get done the hyperparameter tuning so that the best model is built adhering to the requirement fit. Here, precision score (under evaluating parameters) becomes very important as customer is the key target. The bank and the client will be mutually benefitted through this analysis and model building.
